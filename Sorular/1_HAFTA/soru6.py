@@ -1,9 +1,7 @@
  #geçme notlu olan sekli
 
-vize = input("vize notunu gir : ")
-final = input("final notunu gir : ")
-vize = int(vize)
-final = int(final)
+vize = int(input("vize notunu gir : "))
+final = int(input("final notunu gir : "))
 ortalama = vize*0.4 + final*0.6
 print(ortalama)
 if ortalama>88:
