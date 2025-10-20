@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorular/3_HAFTA/soru1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="feats">
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/ODEV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/ODEV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorular/1_HAFTA/soru1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorular/1_HAFTA/soru2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorular/1_HAFTA/soru3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorular/1_HAFTA/soru4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru7_VIZEDE_CIKMIS_ONCEDEN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorular/1_HAFTA/soru7_VIZEDE_CIKMIS_ONCEDEN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru5.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru6.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru7_VIZEDE_CIKMIS_ONCEDEN.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru7_VIZEDE_CIKMIS_ONCEDEN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/1_HAFTA/soru8_VIZEDE_CIKMIS_ONCEDEN.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/1_HAFTA/soru8_VIZEDE_CIKMIS_ONCEDEN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/DONGU_KONTROL_IFADELERI.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/DONGU_KONTROL_IFADELERI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/forDongusu.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/forDongusu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/pythondaki_bazi_ozel_fonksiyonlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/pythondaki_bazi_ozel_fonksiyonlar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/soru2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/soru3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/soru4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/soru5.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/soru6_DAHA_ONCE_VIZEDE_CIKMIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru6_DAHA_ONCE_VIZEDE_CIKMIS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/2_HAFTA/whileDongusu.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/whileDongusu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorular/3_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;erensaridag&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/erensaridag/ileriProgramlamaDersNotlari.git&quot;,
+    &quot;accountId&quot;: &quot;08ab84b5-7736-4496-b7f8-72be79737e66&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,18 +67,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.soru1.executor": "Run",
-    "Python.soru5.executor": "Run",
-    "Python.soru6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/khein/PycharmProjects/ileriProgramlama/Sorular"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.soru1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/khein/PycharmProjects/ileriProgramlama/Sorular&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Sorular" />
@@ -88,12 +115,29 @@
       <option name="project" value="LOCAL" />
       <updated>1760881888890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feats">
+      <option name="closed" value="true" />
+      <created>1760882373269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760882373269</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feats">
+      <option name="closed" value="true" />
+      <created>1760882450086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760882450086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:soru5" />
     <MESSAGE value="feat:soru6" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:soru6" />
+    <MESSAGE value="feats" />
+    <option name="LAST_COMMIT_MESSAGE" value="feats" />
   </component>
 </project>
