@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="added homeworks">
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/matematikselIslemler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/ODEV.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/ODEV.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +47,9 @@
     &quot;accountId&quot;: &quot;08ab84b5-7736-4496-b7f8-72be79737e66&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SorularveKonular/4_HAFTA/test.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -48,27 +61,158 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.soru1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soru5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soru6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/khein/PycharmProjects/ileriProgramlama/Sorular&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.fonksiyonlar.executor": "Run",
+    "Python.ornek1.executor": "Run",
+    "Python.ornek2.executor": "Run",
+    "Python.ornek3.executor": "Run",
+    "Python.ornek4.executor": "Run",
+    "Python.slaytinOrnekleri.executor": "Run",
+    "Python.soru1.executor": "Run",
+    "Python.soru2.executor": "Run",
+    "Python.soru3.executor": "Run",
+    "Python.soru5.executor": "Run",
+    "Python.soru6.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/khein/PycharmProjects/ileriProgramlama/Sorular"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Sorular" />
     </key>
   </component>
+  <component name="RunManager" selected="Python.ornek4">
+    <configuration name="ornek1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slaytinOrnekleri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/slaytinOrnekleri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ornek4" />
+        <item itemvalue="Python.ornek3" />
+        <item itemvalue="Python.ornek2" />
+        <item itemvalue="Python.ornek1" />
+        <item itemvalue="Python.slaytinOrnekleri" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
