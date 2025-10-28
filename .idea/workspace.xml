@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="added homeworks">
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/matematikselIslemler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" afterDir="false" />
-    </list>
+    <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="added new updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,28 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.fonksiyonlar.executor": "Run",
-    "Python.ornek1.executor": "Run",
-    "Python.ornek2.executor": "Run",
-    "Python.ornek3.executor": "Run",
-    "Python.ornek4.executor": "Run",
-    "Python.slaytinOrnekleri.executor": "Run",
-    "Python.soru1.executor": "Run",
-    "Python.soru2.executor": "Run",
-    "Python.soru3.executor": "Run",
-    "Python.soru5.executor": "Run",
-    "Python.soru6.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/khein/PycharmProjects/ileriProgramlama/Sorular"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.fonksiyonlar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ornek1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ornek2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ornek3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ornek4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slaytinOrnekleri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soru6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/khein/PycharmProjects/ileriProgramlama/Sorular&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Sorular" />
@@ -272,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760958661353</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added new updates">
+      <option name="closed" value="true" />
+      <created>1761478239439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761478239439</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +273,7 @@
     <MESSAGE value="feat:soru6" />
     <MESSAGE value="feats" />
     <MESSAGE value="added homeworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homeworks" />
+    <MESSAGE value="added new updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new updates" />
   </component>
 </project>
