@@ -1,5 +1,6 @@
 """
-While döngülerinde belirttiğimiz bir koşul doğru olduğu sürece while bloğu içerisinde tanımladığımız kod satırlarını tekrarlatabiliriz.
+While döngülerinde belirttiğimiz bir koşul doğru olduğu sürece while
+bloğu içerisinde tanımladığımız kod satırlarını tekrarlatabiliriz.
 While döngüsünün söz dizimi şöyledir:
 while koşul:
    ifade(ler)

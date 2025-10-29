@@ -1,8 +1,17 @@
+# Örnek 2:
+# Soru: 100-200 arasında rastgele atanan 100 tam sayıdan
+# tek sayıların toplamını bulan program.
 
-dizi1=[]
-toplam = 0
-for k in range (0,20):
-    toplam = toplam + dizi1[k]
-print(dizi1)
-ort=toplam/len(dizi1) #20
-print(ort)
+import random
+
+dizi2 = []
+toplam_tek = 0
+
+for i in range(100):
+    x = random.randint(100, 200)  # 100-200 arası rastgele sayı
+    dizi2.append(x)
+    if x % 2 == 1:  # % -> modül operatörü, tek sayı kontrolü
+        toplam_tek += x
+
+print("Dizi2:", dizi2)
+print("Tek sayıların toplamı:", toplam_tek)
