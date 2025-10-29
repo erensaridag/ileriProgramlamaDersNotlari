@@ -1,17 +1,11 @@
-#Örnek 2: En büyük sayının kuvvetini ve karekökünü alma
+# Örnek 2: En büyük sayının kuvvetini ve karekökünü alma
+
 import math
 
-def orn2():
-    sayilar = []
-    n = int(input("Kaç sayı gireceksiniz: "))
+a = int(input("1. sayıyı girin: "))
+b = int(input("2. sayıyı girin: "))
 
-    for i in range(n):
-        sayi = float(input("Sayı girin: "))
-        sayilar.append(sayi)
+en_buyuk = max(a, b)  # max() en büyük sayıyı bulur
 
-    en_buyuk = max(sayilar)
-    print("En büyük sayı:", en_buyuk)
-    print("Karesi:", math.pow(en_buyuk, 2))
-    print("Karekökü:", math.sqrt(en_buyuk))
-
-orn2()
+print("Kuvvet (2. dereceden):", math.pow(en_buyuk, 2))   # Üs alma
+print("Karekök:", math.sqrt(en_buyuk))                   # Karekök

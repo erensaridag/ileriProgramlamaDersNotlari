@@ -1,16 +1,8 @@
-"""
-Örnek 1: Girilen değerlerden en küçüğünü bulan program
+# Örnek 1: Girilen değerlerden en küçüğünü bulan program
 
-"""
-def orn1():
-    sayilar = []
-    n = int(input("Kaç sayı gireceksiniz: "))
+a = int(input("1. sayıyı girin: "))
+b = int(input("2. sayıyı girin: "))
+c = int(input("3. sayıyı girin: "))
 
-    for i in range(n):
-        sayi = int(input("Sayı girin: "))
-        sayilar.append(sayi)
-
-    print("En küçük değer:", min(sayilar))
-
-orn1()
-
+en_kucuk = min(a, b, c)  # min() en küçük değeri bulur
+print("En küçük sayı:", en_kucuk)

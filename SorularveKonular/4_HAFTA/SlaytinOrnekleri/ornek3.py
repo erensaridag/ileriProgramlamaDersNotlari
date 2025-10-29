@@ -1,6 +1,6 @@
+# Örnek 3: Sayıyı yukarı yuvarlama
+
 import math
 
-def orn3(sayi):
-    return math.ceil(sayi)
-
-print("Yukarı yuvarlanmış:", orn3(5.34))
+x = float(input("Bir sayı girin: "))
+print("Yuvarlanmış hali:", math.ceil(x))
