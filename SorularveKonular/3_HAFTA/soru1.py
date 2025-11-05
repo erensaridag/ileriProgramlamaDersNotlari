@@ -26,9 +26,10 @@ print("Toplam:", toplam)
 ort = toplam / len(dizi1)  # len(): dizinin eleman sayısını verir
 print("Ortalama:", ort)
 
-# En küçük ve en büyük bulma
-dizi1.sort()   # sort(): listeyi küçükten büyüğe sıralar
+# sort(): listeyi küçükten büyüğe sıralar
+dizi1.sort()
 print("Sıralı Dizi:", dizi1)
 
+# En küçük ve en büyük bulma
 print("En Küçük:", dizi1[0])
 print("En Büyük:", dizi1[-1])  # -1: son eleman

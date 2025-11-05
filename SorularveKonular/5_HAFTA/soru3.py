@@ -15,7 +15,7 @@ def soru3(x):
   sayi=sayi+(i/math.sqrt(i*(i+1)))
  print(sayi)
 #ana fonksiyon
-deger=int(input("değeri gir="))
+deger=int(input("değeri gir = "))
 soru3(deger)
 soru3(9)
 

@@ -13,7 +13,7 @@ print("---------------------------")
 
 def selamla(isim="isimsiz"):
     print("Merhaba",isim)
-selamla()  # fun a deger gondermessek varsayilan degeri kullanir.
+selamla()  # fonksyiona a deger gondermessek varsayilan degeri kullanir.
 selamla("Mestan")
 
 print("---- 2.ornek ----")

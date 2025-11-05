@@ -1,6 +1,6 @@
 #1-Aşağıdaki matematiksel işlemin programını yazınız?
 # a ve b kullanıcı tarafından girilecektir.
- #   𝑠 = 𝑝𝑖 ∗ 𝑎2 + 𝑏 2
+ #   𝑠 = 𝑝𝑖 ∗ 𝑎2 + 𝑏 2   ustu oluyor 2ler
 
 import math as m
 

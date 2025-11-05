@@ -1,14 +1,14 @@
 
 def soru1 (a,b) :
-    sonuc1 = 0
+    sonuc = 0
     if a<b:
-        sonuc1 = a*b-2
+        sonuc = a*b-2
     elif a>b:
-        sonuc1 = 2*a+2
+        sonuc = 2*a+2
     else:
-        sonuc1 = 5
+        sonuc = 5
 
-    return sonuc1
+    return sonuc
 
 x = soru1(3,5)
 print(x)
