@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="Minor updates and improvements">
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/SiraSizdeSorulari/soru2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/6_HAFTA/ornek1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/TEST.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/DAHA_ONCE_VIZEDE_CIKTI.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/DAHA_ONCE_VIZEDE_CIKTI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SiraSizde/s1" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/SiraSizdeSorulari/soru1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek8.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/SlaytinOrnekleri/ornek8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/ODEVLER/3haftaOdevi.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/HAFTALIK_ODEVLER/3haftaOdevi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/ODEVLER/4haftaOdevi.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/HAFTALIK_ODEVLER/4haftaOdevi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +76,7 @@
     "Python.soru1.executor": "Run",
     "Python.soru2 (1).executor": "Run",
     "Python.soru2.executor": "Run",
+    "Python.soru3 (1).executor": "Run",
     "Python.soru3.executor": "Run",
     "Python.soru4 (1).executor": "Run",
     "Python.soru4.executor": "Run",
@@ -108,8 +100,8 @@
       <recent name="$PROJECT_DIR$/Sorular" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.soru2 (1)">
-    <configuration name="fonksiyonlar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TEST">
+    <configuration name="DAHA_ONCE_VIZEDE_CIKTI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ileriProgramlama" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +110,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/5_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/5_HAFTA/fonksiyonlar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA/DAHA_ONCE_VIZEDE_CIKTI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/TEST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,33 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="soru2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ileriProgramlama" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/5_HAFTA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/5_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="soru4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="soru5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ileriProgramlama" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/2_HAFTA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/soru4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.soru2 (1)" />
+        <item itemvalue="Python.TEST" />
+        <item itemvalue="Python.DAHA_ONCE_VIZEDE_CIKTI" />
+        <item itemvalue="Python.soru5" />
         <item itemvalue="Python.soru3" />
-        <item itemvalue="Python.fonksiyonlar" />
         <item itemvalue="Python.soru1" />
-        <item itemvalue="Python.soru4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761735270650</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Minor updates and improvements">
+      <option name="closed" value="true" />
+      <created>1762331339361</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762331339361</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,6 +333,7 @@
     <MESSAGE value="added homeworks" />
     <MESSAGE value="added new updates" />
     <MESSAGE value="feats" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Minor updates and improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor updates and improvements" />
   </component>
 </project>

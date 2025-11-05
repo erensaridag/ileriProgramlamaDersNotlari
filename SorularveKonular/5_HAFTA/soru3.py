@@ -12,7 +12,7 @@ unutmayınız.
 def soru3(x):
  sayi=0
  for i in range(1,x+1):
-  sayi=sayi+(i/math.sqrt(i*(i+1)))
+  sayi=sayi+(i/math.sqrt(i*(i+1 )))
  print(sayi)
 #ana fonksiyon
 deger=int(input("değeri gir = "))
