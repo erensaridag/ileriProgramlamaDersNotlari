@@ -1,4 +1,4 @@
- # 4x4’lük 1–20 arasında rastgele matris:
+import numpy  # 4x4’lük 1–20 arasında rastgele matris:
 
 def rastgele_matris():
     import numpy as np

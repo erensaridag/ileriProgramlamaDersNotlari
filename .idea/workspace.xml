@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="028c716f-95a4-446f-b135-b90ab9501e19" name="Changes" comment="added new week and new files">
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/7_HAFTA/soru1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SorularveKonular/8_HAFTA/MAIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/7_HAFTA/mian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/7_HAFTA/stringOrnekleri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/Kalitim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/MAIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/sirazSizde.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/slaytSorulariOkulOLan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SorularveKonular/9_HAFTA/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/1hafta.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/7_HAFTA/MAIN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/HAFTALIK_ODEVLER/3haftaOdevi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/HAFTALIK_ODEVLER/4haftaOdevi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SorularveKonular/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/DAHA_ONCE_SINAVDA_CIKMIS_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/4_HAFTA/DAHA_ONCE_SINAVDA_CIKMIS_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/5_HAFTA/soru4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/6_HAFTA/ornek1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/6_HAFTA/ornek1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorularveKonular/7_HAFTA/soru1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SorularveKonular/7_HAFTA/soru1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -62,9 +69,13 @@
     &quot;Python.DAHA_ONCE_SINAVDA_CIKMIS_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.DAHA_ONCE_SINAVDA_CIKTI.executor&quot;: &quot;Run&quot;,
     &quot;Python.DAHA_ONCE_VIZEDE_CIKTI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kalitim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MAIN (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.MAIN.executor&quot;: &quot;Run&quot;,
     &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
     &quot;Python.fonksiyonlar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mian.executor&quot;: &quot;Run&quot;,
     &quot;Python.ornek1.executor&quot;: &quot;Run&quot;,
     &quot;Python.ornek2.executor&quot;: &quot;Run&quot;,
     &quot;Python.ornek3.executor&quot;: &quot;Run&quot;,
@@ -73,6 +84,8 @@
     &quot;Python.ornek6.executor&quot;: &quot;Run&quot;,
     &quot;Python.ornek8.executor&quot;: &quot;Run&quot;,
     &quot;Python.pythondaki_bazi_ozel_fonksiyonlar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sirazSizde.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slaytSorulariOkulOLan.executor&quot;: &quot;Run&quot;,
     &quot;Python.slaytinOrnekleri.executor&quot;: &quot;Run&quot;,
     &quot;Python.soru1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.soru1.executor&quot;: &quot;Run&quot;,
@@ -87,23 +100,27 @@
     &quot;Python.soru6_DAHA_ONCE_VIZEDE_CIKMIS.executor&quot;: &quot;Run&quot;,
     &quot;Python.soru7_VIZEDE_CIKMIS_ONCEDEN.executor&quot;: &quot;Run&quot;,
     &quot;Python.soru8_VIZEDE_CIKMIS_ONCEDEN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringOrnekleri.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.whileDongusu.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/khein/PycharmProjects/ileriProgramlama/Sorular&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/khein/Desktop/2sinifGuzDonemiDersSlaytlari/ileriProgramlama&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Sorular" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.MAIN">
-    <configuration name="DAHA_ONCE_VIZEDE_CIKTI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DAHA_ONCE_SINAVDA_CIKMIS_2">
+    <configuration name="DAHA_ONCE_SINAVDA_CIKMIS_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ileriProgramlama" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,11 +129,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA/DAHA_ONCE_VIZEDE_CIKTI.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/4_HAFTA/DAHA_ONCE_SINAVDA_CIKMIS_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kalitim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ileriProgramlama" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/Kalitim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,11 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/7_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/7_HAFTA/MAIN.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/MAIN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +198,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/TEST.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/8_HAFTA_KALITIMA_BURADAN_CALIS/TEST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="soru3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ornek1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ileriProgramlama" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,33 +221,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/6_HAFTA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/3_HAFTA/soru3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="soru5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ileriProgramlama" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SorularveKonular/2_HAFTA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/2_HAFTA/soru5.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SorularveKonular/6_HAFTA/ornek1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,18 +237,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DAHA_ONCE_SINAVDA_CIKMIS_2" />
         <item itemvalue="Python.MAIN" />
+        <item itemvalue="Python.Kalitim" />
         <item itemvalue="Python.TEST" />
-        <item itemvalue="Python.DAHA_ONCE_VIZEDE_CIKTI" />
-        <item itemvalue="Python.soru5" />
-        <item itemvalue="Python.soru3" />
+        <item itemvalue="Python.ornek1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
@@ -334,7 +356,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762340175428</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added new week and new files">
+      <option name="closed" value="true" />
+      <created>1764584311888</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764584311889</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added new week and new files">
+      <option name="closed" value="true" />
+      <created>1767101712266</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767101712266</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,6 +382,7 @@
     <MESSAGE value="added new updates" />
     <MESSAGE value="feats" />
     <MESSAGE value="Minor updates and improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor updates and improvements" />
+    <MESSAGE value="added new week and new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new week and new files" />
   </component>
 </project>

@@ -5,4 +5,8 @@
 # 8 hafta debug ve oop konusu islendi
 
 
+lambda   a , b : a+b
+
+
+
 

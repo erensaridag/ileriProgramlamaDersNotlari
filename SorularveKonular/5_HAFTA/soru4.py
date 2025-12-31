@@ -1,7 +1,7 @@
-import math
+import math as m
 def soru4(r):
- alan=math.pi*math.pow(r,2)
- cevre=2*math.pi*r
+ alan=m.pi*m.pow(r,2)
+ cevre=2*m.pi*r
 
  return alan,cevre
 
